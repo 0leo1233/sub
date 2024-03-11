@@ -8,5 +8,7 @@ void print_sub(void)
 
     printf("print sub-2\n");
 
+    printf("print sub-3\n");
+
     return;
 }
