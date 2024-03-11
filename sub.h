@@ -3,6 +3,8 @@
 
 #include "sub_common.h"
 
+#define HEELO   (1)
+
 void print_sub(void);
 
 
