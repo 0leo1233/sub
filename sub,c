@@ -4,5 +4,7 @@ void print_sub(void)
 {
     printf("Hello sub\n");
 
+    printf("print sub-1\n");
+
     return;
 }
