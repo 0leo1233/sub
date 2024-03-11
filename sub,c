@@ -10,5 +10,7 @@ void print_sub(void)
 
     printf("print sub-3\n");
 
+    printf("new sub-1\n");
+
     return;
 }
