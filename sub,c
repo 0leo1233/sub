@@ -1,0 +1,8 @@
+#include "sub.h"
+
+void print_sub(void)
+{
+    printf("Hello sub\n");
+
+    return;
+}
