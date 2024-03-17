@@ -16,5 +16,7 @@ void print_sub(void)
 
     printf("new sub-2\n");
 
+    printf("hello move");
+
     return;
 }
