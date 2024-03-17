@@ -18,5 +18,7 @@ void print_sub(void)
 
     printf("hello move");
 
+    printf("hello test1");
+
     return;
 }
